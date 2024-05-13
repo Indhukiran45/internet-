@@ -1,0 +1,9 @@
+<!DOCTYPE student
+[
+<!ELEMENT student(name,usn,year,sem)>
+<!ELEMENT name(#PC DATA)>
+<!ELEMENT usn(#PC DATA)>
+<!ELEMENT year(#PC DATA)>
+<!ELEMENT sem(#PC DATA)>
+]
+>
